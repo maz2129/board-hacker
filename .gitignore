@@ -11,3 +11,4 @@ vite.config.ts.timestamp-*
 frontend/.*
 backend/.*
 backend/venv/*
+backend/__pycache__/*
